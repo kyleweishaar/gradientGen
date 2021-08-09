@@ -1,5 +1,3 @@
 # gradientGen
 
-One line.
-
 
